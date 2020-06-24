@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+   
+
+    background-color:bisque;
+}
+
+
+#heading{
+    color: rgb(14, 84, 87);
+    text-align: center;
+    font-size: 40px;
+    
+   
+}
+
+  #list ul {
+    margin-left: 33%;
+   
+    
+    
+}
+
+
+
+#list ul li {
+ font-size: 30px;
+ font-weight: 500;
+ background-color: rgb(86, 86, 231);
+ width: 400px;
+
+
+} 
+
+/* #list ul li div{
+display: inline-block;
+
+
+} */
+
+
+
+#list ul li div{
+    /* font: 30px; */
+    
+    text-align: center;
+    margin: 5px;
+    /* width: max-content;  */
+     
+    
+
+} 
+
+#list ul li div p{
+    display: inline-block;
+ 
+    
+}
+
+
+
+
+#form{
+    margin-left: 30%;
+}
+
+#form input{
+    height: 50px;
+    width: 200px;
+}
+
+#form button{
+    height: 50px;
+    width: 200px;
+} 
+
+
+
+/* #delet-button{
+
+    display: inline-block;
+} */
+
+
+
+
+
